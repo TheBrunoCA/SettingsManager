@@ -1,7 +1,7 @@
 #Requires AutoHotkey v2
 
-#Include utils\MapRedefined.ahk
-#Include utils\ArrayRedefined.ahk
+#Include dependencies\MapPlus\MapPlus.ahk
+#Include dependencies\ArrayPlus\ArrayPlus.ahk
 
 _valueOrCallback(item) {
     if item is Func

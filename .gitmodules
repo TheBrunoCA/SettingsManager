@@ -1,0 +1,6 @@
+[submodule "dependencies/MapPlus"]
+	path = dependencies/MapPlus
+	url = https://github.com/TheBrunoCA/MapPlus.git
+[submodule "dependencies/ArrayPlus"]
+	path = dependencies/ArrayPlus
+	url = https://github.com/TheBrunoCA/ArrayPlus.git
